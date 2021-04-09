@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Yididiya Kassaun
 #### i am software engineer/javascript developer
-![i am software engineer/javascript developer](https://www.linkpicture.com/q/yidi-git-banner.jpg)
+![i am software engineer/javascript developer](https://www.linkpicture.com/q/yidi-git-banner_1.jpg)
 
 i'm interested in web development and i worked on projects using current web frameworks and android app development. I have a passion for learning and Sharing my knowledge with others. 
 
