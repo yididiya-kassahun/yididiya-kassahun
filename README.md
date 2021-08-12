@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Yididiya Kassaun
+### Hi there 👋, my name is Yididiya Kassahun
 #### i am software engineer/javascript developer
 ![i am software engineer/javascript developer](https://www.linkpicture.com/q/yidi-git-banner_1.jpg)
 
