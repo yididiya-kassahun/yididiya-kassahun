@@ -14,7 +14,5 @@ Skills:  / NodeJS / JS / HTML / CSS / Laravel
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yididiya-kassahun&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yididiya-kassahun)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yididiya-kassahun)  
 
