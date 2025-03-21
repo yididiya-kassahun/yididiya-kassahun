@@ -37,9 +37,9 @@ I'm passionate about web development and have worked on several projects using m
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yididiya-kassahun&theme=radical)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yididiya-kassahun&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yididiya-kassahun&show_icons=true&count_private=true&theme=radical)  
-
-
-
+<div style="display: flex; justify-content: space-between; gap:20px">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yididiya-kassahun&theme=radical" alt="Top Langs" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=yididiya-kassahun&show_icons=true&count_private=true&theme=radical" alt="GitHub stats" />
+</div>
